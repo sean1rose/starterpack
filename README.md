@@ -1,0 +1,2 @@
+# starterpack
+## react + webpack
